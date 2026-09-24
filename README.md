@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-midhunforjobs@gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhunforjobs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-midhunjp00-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midhunjp00)
-<!-- TODO LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Midhun-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Midhun-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooppanpurajayaprasad)
 
 </div>
 
@@ -154,7 +154,7 @@ GitHub: *GitHub Repository – Add Link*
 
 ## 📬 Contact
 
-📧 [midhunforjobs@gmail.com](mailto:midhunforjobs@gmail.com) · 🐙 [github.com/midhunjp00](https://github.com/midhunjp00) · 📍 Regensburg, Germany
+📧 [midhunforjobs@gmail.com](mailto:midhunforjobs@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mooppanpurajayaprasad) · 🐙 [github.com/midhunjp00](https://github.com/midhunjp00) · 📍 Regensburg, Germany
 
 <div align="center">
 
