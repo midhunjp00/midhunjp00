@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Terminal: designing systems, modeling products, simulating robots, building cyber-physical systems">
+<rect width="900" height="200" rx="12" fill="#0b1120" stroke="#1e293b"/>
+<rect width="900" height="34" rx="12" fill="#111827"/>
+<circle cx="24" cy="17" r="6" fill="#ef4444"/><circle cx="46" cy="17" r="6" fill="#f59e0b"/><circle cx="68" cy="17" r="6" fill="#22c55e"/>
+<text x="450" y="22" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#64748b">midhun@regensburg: ~/engineering</text>
+<g font-family="Consolas, Menlo, monospace" font-size="17" fill="#e2e8f0">
+<text x="30" y="70"><tspan fill="#22d3ee">&gt;</tspan> designing systems...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.06;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="30" y="102"><tspan fill="#3b82f6">&gt;</tspan> modeling products...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.24;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="30" y="134"><tspan fill="#a855f7">&gt;</tspan> simulating robots...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.44;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="30" y="166"><tspan fill="#22d3ee">&gt;</tspan> building cyber-physical systems...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.64;1" dur="12s" repeatCount="indefinite"/></text>
+<rect x="400" y="152" width="10" height="18" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

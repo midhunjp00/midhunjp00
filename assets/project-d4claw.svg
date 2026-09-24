@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="D4-Claw Adaptive Pickup Tool">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#a855f7"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1e293b" stroke-width="1"/></pattern></defs>
+<rect width="900" height="230" rx="12" fill="#0b1120" stroke="#1e293b"/>
+<rect width="900" height="230" rx="12" fill="url(#grid)" opacity="0.6"/>
+<rect x="0" y="12" width="5" height="206" fill="url(#g)"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/></rect>
+<text x="30" y="46" font-family="Consolas, Menlo, monospace" font-size="13" fill="#22d3ee">PROJECT 01  //  M.Eng.</text>
+<text x="30" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#f1f5f9">D4-Claw Adaptive Pickup Tool</text>
+<text x="30" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Topology Optimization &amp; Additive Manufacturing</text>
+<text x="30" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">Four-claw pickup tool, weight-optimized with FEA and topology optimization.</text>
+<text x="30" y="178" font-family="Consolas, Menlo, monospace" font-size="12" fill="#64748b">TECHNOLOGIES</text>
+<text x="30" y="198" font-family="Consolas, Menlo, monospace" font-size="13" fill="#e2e8f0">FEA · Topology Optimization · FDM · ABS · 3D Printing</text>
+<rect x="640" y="172" width="230" height="36" rx="8" fill="#111827" stroke="url(#g)"/>
+<text x="755" y="195" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">−13.82% mass (21.54 g)</text>
+</svg>
