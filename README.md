@@ -30,7 +30,7 @@ I am an **M.Eng. Mechatronic and Cyber-Physical Systems** student at **Deggendor
 
 | Degree | Institution | Period | Grade |
 |---|---|---|---|
-| **M.Eng.** Mechatronic and Cyber-Physical Systems | Technische Hochschule Deggendorf (DIT) | March 2025 – Present | 2.4 (current) |
+| **M.Eng.** Mechatronic and Cyber-Physical Systems | Technische Hochschule Deggendorf (DIT) | March 2025 – Present | 2.3 (current) |
 | **B.Tech.** Mechanical Engineering | APJ Abdul Kalam Technological University (KTU) | March 2018 – August 2022 | 7.31 / 10.0 |
 
 ---
